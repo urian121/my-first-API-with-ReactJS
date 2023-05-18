@@ -1,5 +1,5 @@
 body {
-  background: #eaebef;
+  background: #f0f4f3;
   font-family: "Poppins", sans-serif;
 }
 .titulo {
@@ -11,7 +11,9 @@ img {
 }
 .media {
   background-color: #fff;
+  border: 1px solid #e6ebf2;
   border-radius: 10px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
 }
 
 @keyframes hoverTransiton {
